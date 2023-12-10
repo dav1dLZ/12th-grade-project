@@ -13,4 +13,7 @@ This type of sensor is able to measure the amount of alkalinity and acidity in w
 
 <br> &bull; MQ-135: The gas sensor module consists of a steel exoskeleton under which a sensing element is housed. This sensing element is subjected to current through connecting leads. This current is known as heating current through it, the gases coming close to the sensing element get ionized and are absorbed by the sensing element. This changes the resistance of the sensing element which alters the value of the current going out of it. <br/>
 
+<h1>Scheme of the project</h1>
+
+![WhatsApp Image 2023-12-10 at 18 23 27](https://github.com/dav1dLZ/12th-grade-project/assets/153218457/350d52eb-2eaf-4fc1-b1e7-b4b58a7f114a)
 
