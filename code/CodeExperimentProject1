@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
-LiquidCrystal_I2C lcd(0x27, 16, 2);  // שנה את הכתובת (0x27) לפי המודול שלך
+LiquidCrystal_I2C lcd(0x27, 16, 2); 
 
 const int phSensorPin = A0;
 const int mq3SensorPin = A1;
