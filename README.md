@@ -17,3 +17,5 @@ This type of sensor is able to measure the amount of alkalinity and acidity in w
 
 ![WhatsApp Image 2023-12-10 at 18 23 27](https://github.com/dav1dLZ/12th-grade-project/assets/153218457/350d52eb-2eaf-4fc1-b1e7-b4b58a7f114a)
 
+
+https://github.com/dav1dLZ/12th-grade-project/blob/main/img/newSchematicImg.png
